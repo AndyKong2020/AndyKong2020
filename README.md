@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @AndyKong2020
-- 👀 from NUAA
+- 👀 I'm from NUAA
+- Main language: c++ and python
+- Interests: ROS, computer vision and neural network
+- Contact: QQ243604572, andy.kong@nuaa.edu.cn
 
 
 <!---
