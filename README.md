@@ -2,6 +2,14 @@
 
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyKong2020&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,cmake,linux,python,raspberrypi,matlab,md,github,arduino,git,docker,vim,ae,pr,ps,vue,nodejs,ts" />
+  </a>
+</p>
+
+
 - 👋 Hi, I’m @AndyKong2020
 - 👀 I'm from NUAA
 - Main language: c++ and python
