@@ -4,7 +4,7 @@
 --->
 
 <p align="center">
-  ## Tech Stack
+  <h1>Tech Stack</h1>
 </p>
 
 <p align="center">
