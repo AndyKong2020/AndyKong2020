@@ -17,9 +17,10 @@
 
 
 - 👋 Hi, I’m @AndyKong2020
-- 👀 I'm from NUAA
+- I'm from NUAA
 - Main language: c++ and python
-- Interests: ROS, computer vision and neural network
+- Now working on: RoboMaster, RoboCup, TiCup
+- Interested in:embedded, ROS, aircraft, computer vision, slam and neural network
 - Contact: QQ243604572, andy.kong@nuaa.edu.cn
 
 
