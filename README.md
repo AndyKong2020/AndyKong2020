@@ -15,6 +15,8 @@
   </a>
 </p>
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AndyKong2020)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 👋 Hi, I’m @AndyKong2020
 - I'm from NUAA
