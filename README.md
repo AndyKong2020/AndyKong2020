@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,ros,c,cmake,linux,python,raspberrypi,matlab,html,md,github,githubactions,arduino,git,bash,docker,vim,neovim,unity,unreal,blender,ae,pr,ps,vue,nodejs,js,ts&perline=8" />
+    <img src="https://skillicons.dev/icons?i=cpp,ros,c,cmake,opencv,linux,arch,ubuntu,clion,pycharm,webstorm,python,raspberrypi,matlab,latex,md,github,githubactions,vercel,arduino,git,bash,powershell,windows,docker,vim,vscode,notion,gmail,unity,unreal,blender,ae,pr,ps,pytorch,tensorflow,vue,react,npm,pnpm,yarn,html,css,nodejs,js,ts&perline=8" />
   </a>
 </p>
 
